@@ -93,7 +93,7 @@ python kicau.py
 | -------------------------------------------------------------------- | ------------------------------------- |
 | Dua tangan terdeteksi, menutup mulut, dan melakukan gerakan mengibas | Video MP4 terbuka pada tab baru       |
 | Gesture belum memenuhi kriteria                                      | Status deteksi ditampilkan pada layar |
-| Tekan tombol Q                                                       | Keluar dari aplikasi                  |
+| Tekan tombol ESC                                                     | Keluar dari aplikasi                  |
 
 ---
 
